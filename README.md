@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Rajkumar Kathula Rajkumar Kathula</h1>
+<h1 align="center">Hey there 👋, I'm Rajkumar Kathula </h1>
 <h3 align="center">A Curious Full-Stack Developer crafting intuitive UIs and powerful backends</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kathula-rajkumar&label=Profile%20views&color=0e75b6&style=flat" alt="kathula-rajkumar" /> </p>
