@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **Saas based Project**
 
-- 🌱 I’m currently learning **Backend Development, GSAP animations, and sharpening my Data Structures & Algorithms (DSA) skills.**
+- 🌱 I’m currently learning ** Next.js, exploring monorepos with Turborepo, using Docker for deployments, and applying TypeScript for scalable development., and sharpening my Data Structures & Algorithms (DSA) skills.**
 
 - 👯 I’m looking to collaborate on **open-source projects that solve real-world problems.**
 
-- 🤝 I’m looking for help with **advanced backend system design and architecture in the MERN stack.**
+- 🤝 I’m looking for help with **advanced backend system design and architecture in the MERN/PERN stack.**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/rajkumar-kathula-3922002b4/](https://www.linkedin.com/in/rajkumar-kathula-3922002b4/)
 
